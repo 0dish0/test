@@ -4,8 +4,9 @@ add()
 {
 print("addition")
 
-mul();
-div();
+mul()
+print("multiplication")
+div()
 {
 print("division")
   }
