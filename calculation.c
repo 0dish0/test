@@ -1,0 +1,5 @@
+main()
+{
+add();
+mul();
+div();
