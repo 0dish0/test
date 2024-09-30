@@ -1,8 +1,11 @@
 main()
 {
-add();
+add()
 {
 print("addition")
   }
-mul();
-div();
+mul()
+  print("multiplication")
+div()
+}
+
