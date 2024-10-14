@@ -14,3 +14,6 @@ mul()
   print("multiplication")
 div()
 }
+print("pulling to local");
+}
+
